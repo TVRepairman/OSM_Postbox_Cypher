@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-02-22T15:36:01Z"/>
+
+  <node id="432578795" lat="50.7154182" lon="-1.9307435" version="4" timestamp="2012-06-24T09:20:49Z" changeset="11997306" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="note" v="Rare Edward VIII-reign"/>
+    <tag k="ref" v="BH14 197"/>
+    <tag k="royal_cypher" v="EVIIIR"/>
+  </node>
+  <node id="687059085" lat="52.2131843" lon="-2.2266874" version="3" timestamp="2011-08-28T13:22:39Z" changeset="9147199" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:45; Sa 11:45"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="WR3 5"/>
+    <tag k="royal_cypher" v="EVIIIR"/>
+  </node>
+  <node id="973832261" lat="52.4766107" lon="-1.8920262" version="4" timestamp="2013-06-03T22:11:51Z" changeset="16413621" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="note" v="One of only ~20 Edward VIII boxes erected before his abdication"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="royal_cypher" v="EVIIIR"/>
+    <tag k="source" v="visual survey; estimate"/>
+  </node>
+  <node id="1114106628" lat="52.0831694" lon="-2.2601990" version="1" timestamp="2011-01-22T00:09:17Z" changeset="7046147" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 07:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR8 186"/>
+    <tag k="royal_cypher" v="EVIIIR"/>
+    <tag k="source" v="GPS Survey"/>
+  </node>
+  <node id="1391504711" lat="51.0852671" lon="-0.7528223" version="2" timestamp="2012-01-25T00:17:16Z" changeset="10489814" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 12:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GU27 129"/>
+    <tag k="royal_cypher" v="EVIIIR"/>
+  </node>
+  <node id="1942765872" lat="51.5355545" lon="0.1019333" version="1" timestamp="2012-10-02T14:36:49Z" changeset="13335649" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="IG11 31"/>
+    <tag k="royal_cypher" v="EVIIIR"/>
+  </node>
+
+</osm>
