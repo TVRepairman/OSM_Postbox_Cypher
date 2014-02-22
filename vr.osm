@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-02-22T17:28:02Z"/>
+
+  <node id="21563447" lat="51.5125433" lon="-0.1067767" version="10" timestamp="2012-10-15T07:32:37Z" changeset="13502051" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="EC4 423"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="23721398" lat="52.1764878" lon="0.0969917" version="9" timestamp="2013-06-09T09:47:03Z" changeset="16479061" uid="605122" user="neiljp">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:45; Sa 11:45"/>
+    <tag k="note" v="ref probably CB23 now"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="CB3 330"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="26200695" lat="51.4699970" lon="-2.6006622" version="3" timestamp="2013-12-28T14:53:59Z" changeset="19679786" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:15"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="BS6 272"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="26200696" lat="51.4715927" lon="-2.6057491" version="3" timestamp="2013-12-28T14:53:59Z" changeset="19679786" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 12:00"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="BS6 265"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="26408197" lat="51.4438274" lon="-2.6106151" version="4" timestamp="2013-12-08T18:29:36Z" changeset="19345542" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 13:00; Sa 12:00"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="BS3 63"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="26478335" lat="52.2103876" lon="-1.0175422" version="2" timestamp="2012-06-14T19:56:06Z" changeset="11898735" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NN7 473"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="26508303" lat="51.5264365" lon="-0.1038235" version="5" timestamp="2012-08-23T06:50:45Z" changeset="12828900" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="EC1 126"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="29428141" lat="52.9711628" lon="-1.1585210" version="8" timestamp="2013-06-14T09:43:41Z" changeset="16547917" uid="84681" user="SK53">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 10:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="NG7 20"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:details" v="http://www.geograph.org.uk/photo/1465428"/>
+  </node>
+  <node id="29683628" lat="57.1612403" lon="-2.1099899" version="6" timestamp="2012-07-19T10:37:05Z" changeset="12318979" uid="605122" user="neiljp">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:45; Sa 12:45"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="AB24 105"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey; Bing"/>
+  </node>
+  <node id="66554572" lat="52.2030243" lon="0.1176937" version="8" timestamp="2013-06-23T08:39:17Z" changeset="16665975" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:15"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="postal_code" v="CB2 1"/>
+    <tag k="ref" v="CB2 105"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="70785948" lat="53.3826285" lon="-1.4698103" version="3" timestamp="2012-06-01T22:44:54Z" changeset="11772576" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 11:00"/>
+    <tag k="post_box:type" v="hexagonal_pillar"/>
+    <tag k="postal_code" v="S1"/>
+    <tag k="ref" v="S1 302"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="89981302" lat="50.7911417" lon="-1.1019576" version="13" timestamp="2012-01-15T00:47:58Z" changeset="10394084" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO1 18"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="255558986" lat="52.0492280" lon="-2.6909628" version="3" timestamp="2013-03-08T18:44:25Z" changeset="15293581" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="HR1 10"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="259281393" lat="51.9849604" lon="-2.4352111" version="2" timestamp="2012-05-20T17:13:28Z" changeset="11653841" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:25; Sa 08:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL18 68"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="259786636" lat="54.0067417" lon="-1.0549175" version="2" timestamp="2013-06-25T23:21:11Z" changeset="16706719" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="266821703" lat="51.4992393" lon="-0.2194390" version="6" timestamp="2012-03-03T21:10:49Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co. Ltd, Derby and London"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="W14 17"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="268997568" lat="51.5179351" lon="-0.1104226" version="8" timestamp="2012-10-15T07:20:02Z" changeset="13501945" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="ref" v="EC1 102"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="276534074" lat="51.6904085" lon="-1.2462204" version="3" timestamp="2013-06-09T10:39:45Z" changeset="16479694" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 09:00,16:30; Sa 09:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="AB1028"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2013-06-08"/>
+  </node>
+  <node id="277030163" lat="50.8127335" lon="-0.7480697" version="7" timestamp="2014-01-12T11:35:07Z" changeset="19950636" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 08:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="PO20 59"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="280186500" lat="51.5199631" lon="-0.0873537" version="2" timestamp="2012-08-23T06:54:22Z" changeset="12828921" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="ref" v="EC2 208"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="290021304" lat="50.6800182" lon="-3.4636188" version="5" timestamp="2014-02-07T13:23:06Z" changeset="20430426" uid="126370" user="wilpin">
+    <tag k="amenity" v="post_box"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="290633281" lat="57.1437320" lon="-2.1086430" version="3" timestamp="2014-01-17T18:24:59Z" changeset="20055160" uid="92905" user="benwatt">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 13:15"/>
+    <tag k="ref" v="AB11 57"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="290633291" lat="57.1446250" lon="-2.1053230" version="5" timestamp="2014-01-17T18:24:59Z" changeset="20055160" uid="92905" user="benwatt">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 13:00; Sa 18:30"/>
+    <tag k="ref" v="AB10 31"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="324321279" lat="51.7535148" lon="-1.2616461" version="6" timestamp="2013-02-19T10:52:36Z" changeset="15087785" uid="855381" user="Pierre Riteau">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="postal_code" v="OX1"/>
+    <tag k="ref" v="OX1 85"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2013-02-18"/>
+  </node>
+  <node id="339038357" lat="51.4107683" lon="-0.1618293" version="6" timestamp="2012-08-13T10:46:21Z" changeset="12712140" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="postal_code" v="CR4"/>
+    <tag k="ref" v="CR4 8"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="343740482" lat="52.1963925" lon="0.1352456" version="5" timestamp="2012-08-02T14:27:08Z" changeset="12586617" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 13:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="postal_code" v="CB1 2"/>
+    <tag k="ref" v="CB1 22"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="347756405" lat="57.4717549" lon="-4.3905366" version="3" timestamp="2011-01-28T21:51:48Z" changeset="7117570" uid="4985" user="Vclaw">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 11:15"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="IV5 81"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="348615605" lat="51.3909011" lon="0.5027519" version="4" timestamp="2012-07-31T07:50:34Z" changeset="12557702" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 11:30"/>
+    <tag k="note" v="Painted green!"/>
+    <tag k="ref" v="ME1 24"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="349236803" lat="51.9334231" lon="-2.4765569" version="2" timestamp="2012-11-18T18:30:46Z" changeset="13922366" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 09:30; Sa 09:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR9 627"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="349336739" lat="54.4486160" lon="-3.0291472" version="2" timestamp="2011-07-12T12:18:05Z" changeset="8702622" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 10:45"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="LA22 154"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="354943931" lat="51.9489961" lon="1.0449034" version="10" timestamp="2013-11-04T21:58:17Z" changeset="18720721" uid="38588" user="mentor">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 10:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="postal_code" v="CO11 2LH"/>
+    <tag k="ref" v="CO11 37"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="354955915" lat="50.7241793" lon="-3.5090110" version="3" timestamp="2014-01-20T16:01:27Z" changeset="20106081" uid="126370" user="wilpin">
+    <tag k="amenity" v="post_box"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="355032480" lat="52.9108986" lon="-1.4817104" version="6" timestamp="2011-10-08T10:42:35Z" changeset="9501174" uid="82783" user="Paul The Archivist">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 10:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="postal_code" v="DE23"/>
+    <tag k="ref" v="DE23 142"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="358327473" lat="52.5626672" lon="-2.8960977" version="4" timestamp="2013-09-20T22:30:47Z" changeset="17948062" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 11:00; Sa 11:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="SY5 137"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="358548483" lat="51.5042760" lon="-0.0761112" version="4" timestamp="2012-07-15T11:00:25Z" changeset="12226517" uid="722137" user="OSMF Redaction Account">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 13:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="SE1 35"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="361527878" lat="50.7979053" lon="-1.1292789" version="2" timestamp="2013-05-04T09:39:48Z" changeset="15969057" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 11:15"/>
+    <tag k="note" v="hexagonal_pillar"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO12 2"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="364057360" lat="57.5127306" lon="-4.3673123" version="2" timestamp="2011-09-06T21:07:59Z" changeset="9231736" uid="4985" user="Vclaw">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 12:15; Sa 11:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="IV4 152"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="366327714" lat="52.0119643" lon="-0.6355378" version="3" timestamp="2013-12-25T13:43:24Z" changeset="19629744" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 11:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="MK17 18"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="367412080" lat="52.6197768" lon="1.3070780" version="3" timestamp="2012-06-17T16:33:09Z" changeset="11927579" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 18:00; Sa 11:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="postal_code" v="NR1"/>
+    <tag k="ref" v="NR1 113"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="368223181" lat="52.6287596" lon="1.3035911" version="3" timestamp="2012-12-09T14:20:41Z" changeset="14213288" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 19:00; Sa 11:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="postal_code" v="NR1"/>
+    <tag k="ref" v="NR1 102"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="370939492" lat="54.1762690" lon="-2.3314935" version="3" timestamp="2012-02-20T20:12:37Z" changeset="10744428" uid="21264" user="Pobice">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="380488484" lat="51.7576212" lon="-1.2560646" version="3" timestamp="2013-09-12T22:45:52Z" changeset="17808942" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="OX1 114"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="391097395" lat="51.5019532" lon="-0.1860770" version="3" timestamp="2012-04-15T17:40:07Z" changeset="11313466" uid="82783" user="Paul The Archivist">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:manufacturer" v="A. Handyside &amp; Co Ltd, Derby and London"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="W8 22"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="391545348" lat="52.0269249" lon="-0.7866042" version="2" timestamp="2013-12-27T15:50:46Z" changeset="19663361" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 09:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="MK5 12"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="412569532" lat="51.4176989" lon="-0.2035778" version="4" timestamp="2012-08-29T08:04:13Z" changeset="12901793" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="SW19 43"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="415999519" lat="53.2247046" lon="-1.7109069" version="2" timestamp="2011-05-21T17:44:05Z" changeset="8209016" uid="82783" user="Paul The Archivist">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="DE45 1266"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="416590128" lat="51.8604222" lon="0.8243245" version="4" timestamp="2013-09-11T22:23:28Z" changeset="17791482" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="CO3 77"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="429911354" lat="51.4637435" lon="-2.5969863" version="4" timestamp="2013-12-08T17:56:30Z" changeset="19345002" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:45; Sa 12:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="BS6 297"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="430913607" lat="52.9508392" lon="-1.1438009" version="5" timestamp="2013-09-16T23:14:50Z" changeset="17877908" uid="207845" user="will_p">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 09:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="NG1 80"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="439279781" lat="57.4714691" lon="-4.2270250" version="3" timestamp="2010-10-28T23:00:05Z" changeset="6213083" uid="4985" user="Vclaw">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:00; Sa 11:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="postal_code" v="IV2"/>
+    <tag k="ref" v="IV2 14"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="442374614" lat="52.4753579" lon="-2.3728815" version="2" timestamp="2012-04-07T21:51:51Z" changeset="11219143" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 08:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WV15 28"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="442738394" lat="51.4141436" lon="-1.5129691" version="2" timestamp="2012-11-01T22:44:10Z" changeset="13716581" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="postal_code" v="RG17"/>
+    <tag k="ref" v="RG17 144"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="443030623" lat="51.4861225" lon="-0.1611430" version="4" timestamp="2012-09-16T18:05:11Z" changeset="13134063" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="ref" v="SW3 10"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="466039157" lat="51.9434536" lon="-2.5121349" version="3" timestamp="2013-02-08T18:53:15Z" changeset="14959178" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 09:30; Sa 09:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR9 506"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="469351143" lat="52.1060718" lon="-2.3229047" version="4" timestamp="2011-09-15T07:58:38Z" changeset="9305729" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="CP2"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 11:30"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="ref" v="WR14 47"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="471834238" lat="52.0959084" lon="-2.3209700" version="10" timestamp="2013-07-03T11:33:37Z" changeset="16804246" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 11:15"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="post_box:apertures" v="1"/>
+    <tag k="post_box:design" v="fluted"/>
+    <tag k="post_box:manufacturer" v="no"/>
+    <tag k="post_box:platecode" v="CPR"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="WR14 105"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="472277487" lat="50.9103400" lon="-1.1112727" version="4" timestamp="2013-11-10T21:50:58Z" changeset="18825447" uid="2098" user="Andy Street">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="PO7 104"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="474986934" lat="51.7511480" lon="-1.2540067" version="6" timestamp="2013-07-29T08:56:51Z" changeset="17136059" uid="855381" user="Pierre Riteau">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 11:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="OX1 90"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="479090856" lat="50.2437715" lon="-5.1863402" version="4" timestamp="2013-07-29T19:13:47Z" changeset="17143626" uid="605122" user="neiljp">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 10:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TR16 66"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480115990" lat="52.2022795" lon="0.1163644" version="4" timestamp="2013-11-23T12:27:15Z" changeset="19070668" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="postal_code" v="CB3 9"/>
+    <tag k="ref" v="CB3 118"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="499896076" lat="52.2415604" lon="-1.1035203" version="7" timestamp="2013-03-03T16:52:59Z" changeset="15236073" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NN7 23"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="545789506" lat="51.7527655" lon="-1.2566422" version="6" timestamp="2013-07-29T08:55:00Z" changeset="17136037" uid="855381" user="Pierre Riteau">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="OX1 100"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="565049169" lat="51.9797668" lon="-1.9089312" version="2" timestamp="2012-10-09T21:31:13Z" changeset="13433637" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 15:45; Sa 10:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL54 32"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="GPS Survey"/>
+  </node>
+  <node id="565366787" lat="51.9631045" lon="-1.8735238" version="3" timestamp="2012-09-27T23:22:03Z" changeset="13279127" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="postal_code" v="GL54"/>
+    <tag k="ref" v="GL54 215"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="GPS Survey"/>
+  </node>
+  <node id="587758798" lat="51.8670727" lon="-2.2475846" version="2" timestamp="2012-05-20T17:13:28Z" changeset="11653841" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="GL1 44"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="596362333" lat="52.6281425" lon="1.2922087" version="4" timestamp="2011-12-10T19:35:38Z" changeset="10084183" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 11:15"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NR2 211"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="597395330" lat="51.5846162" lon="-0.0116569" version="2" timestamp="2013-05-02T21:44:48Z" changeset="15953341" uid="82783" user="Paul The Archivist">
+    <tag k="amenity" v="disused_post_box"/>
+    <tag k="post_box:design" v="penfold"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="603990546" lat="50.8028730" lon="-0.6379585" version="2" timestamp="2014-01-13T20:44:19Z" changeset="19979483" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 11:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="PO22 25"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="624185106" lat="52.1061540" lon="-2.2737444" version="3" timestamp="2011-01-20T09:36:52Z" changeset="7028378" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="uncoded"/>
+    <tag k="collection_times" v="Mo-Fr 09:45,15:45; Sa 09:45"/>
+    <tag k="fixme" v="Not sure about position of box or surrounding ways"/>
+    <tag k="fixme2" v="Better go and check it hasn't been nicked since I logged it."/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="old_ref" v="M014 Guarlford Church"/>
+    <tag k="ref" v="WR13 14"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="656085028" lat="50.6948147" lon="-3.4926278" version="3" timestamp="2014-01-26T15:24:00Z" changeset="20212002" uid="126370" user="wilpin">
+    <tag k="amenity" v="post_box"/>
+    <tag k="ref" v="EX2 222"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="665391178" lat="51.0176541" lon="-1.0157268" version="3" timestamp="2013-05-18T21:41:55Z" changeset="16186373" uid="2098" user="Andy Street">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GU32 80"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="676303518" lat="52.9757312" lon="-1.2810609" version="3" timestamp="2014-01-26T19:15:48Z" changeset="20216305" uid="207845" user="will_p">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 10:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="NG16 35"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="702241450" lat="57.1655816" lon="-2.1021018" version="5" timestamp="2012-07-31T08:51:52Z" changeset="12558315" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:45; Sa 12:15"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="AB24 48"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey; Bing"/>
+  </node>
+  <node id="761686477" lat="52.0547504" lon="1.1530637" version="5" timestamp="2014-01-10T19:55:00Z" changeset="19923753" uid="6871" user="smsm1">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="IP2 1468"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="770760426" lat="51.4707164" lon="-2.5939176" version="7" timestamp="2013-12-20T21:54:10Z" changeset="19557529" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:45; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="BS7 338"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="774077596" lat="52.9518777" lon="-1.1314564" version="7" timestamp="2013-04-30T22:07:30Z" changeset="15926771" uid="84681" user="SK53">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 10:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NG2 136"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="792081766" lat="52.1953907" lon="-2.2159764" version="3" timestamp="2012-08-04T08:53:05Z" changeset="12606752" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_plate" v="CP2"/>
+    <tag k="collection_times" v="Mo-Fr 18:00; Sa 11:30"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="WR1 24"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey;gps;bing"/>
+  </node>
+  <node id="799685428" lat="51.6695319" lon="-0.6067405" version="4" timestamp="2012-11-20T09:40:17Z" changeset="13942862" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="brick_pillar"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="ref" v="HP7 65"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="stop-motion GPS"/>
+  </node>
+  <node id="805426382" lat="51.8680730" lon="-0.2700620" version="2" timestamp="2010-08-25T13:54:43Z" changeset="5590031" uid="253958" user="user_253958">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:15"/>
+    <tag k="ref" v="SG5 122"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="805473685" lat="51.9507451" lon="-0.2837567" version="5" timestamp="2012-06-24T09:22:27Z" changeset="11997325" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 12:00"/>
+    <tag k="ref" v="SG5 12"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="805498400" lat="51.9631500" lon="-0.3911840" version="5" timestamp="2012-06-24T09:22:27Z" changeset="11997325" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="note" v="Postbox is in wall of old Post Office. RM insists it is still in use. At time of survey (2010-08), had modern sticker on &quot;we no longer collect on BH&quot; so it appears genuine."/>
+    <tag k="ref" v="SG5 80"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="805841858" lat="51.9945253" lon="-0.2079532" version="3" timestamp="2012-06-24T09:22:27Z" changeset="11997325" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 12:00"/>
+    <tag k="ref" v="SG6 150"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="819879814" lat="52.1850889" lon="-2.2363311" version="2" timestamp="2010-10-29T14:21:05Z" changeset="6219029" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 11:30"/>
+    <tag k="description" v="In the curving brick wall, to the left of the Brunswick Arms public house"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR2 104"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="823670188" lat="52.0932139" lon="-2.4737508" version="3" timestamp="2013-08-23T09:23:20Z" changeset="17467168" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="description" v="I think this might be the Stanley Hill Box.&lt;br&gt;On the left going uphill (W), in wall of an ex-Barn"/>
+    <tag k="ref" v="HR8"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="836057190" lat="52.1366686" lon="-0.4686638" version="3" timestamp="2012-06-24T09:22:27Z" changeset="11997325" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:30"/>
+    <tag k="note" v="Victorian Hex/Oct pillar"/>
+    <tag k="ref" v="MK40 72"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="845869337" lat="51.9118842" lon="-0.0745667" version="3" timestamp="2012-01-29T13:39:49Z" changeset="10530042" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:00"/>
+    <tag k="note" v="In perimeter wall of house on triangle junction"/>
+    <tag k="ref" v="SG2 119"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="846479747" lat="57.3391645" lon="-4.5033192" version="1" timestamp="2010-08-04T23:37:03Z" changeset="5404122" uid="4985" user="Vclaw">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Sa 12:45"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="IV3 143"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="851233690" lat="52.0222373" lon="-0.2257489" version="2" timestamp="2010-12-11T14:41:49Z" changeset="6625001" uid="1295" user="robert">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 08:00"/>
+    <tag k="note" v="in wall of The Crown PH. Not sure how to represent this"/>
+    <tag k="ref" v="SG5 107"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="855421214" lat="52.9415439" lon="1.2095978" version="2" timestamp="2013-06-09T17:54:24Z" changeset="16485849" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 12:30"/>
+    <tag k="note" v="Unusual hexagonal pillar with decorated roof"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="NR26 2627"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="872533748" lat="51.9725367" lon="-0.3301773" version="1" timestamp="2010-08-21T20:01:32Z" changeset="5555225" uid="253958" user="user_253958">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="brick_pillar"/>
+    <tag k="collection_plate" v="CP5"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 09:45"/>
+    <tag k="note" v="Two-faced composite postbox. A pair of postboxes (different numbers) of different vintages on the &quot;inside&quot; and &quot;outside&quot; of a dedicated brick pillar !"/>
+    <tag k="ref" v="SG5 1002"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="895869109" lat="52.3397430" lon="0.8129319" version="2" timestamp="2011-04-18T22:36:06Z" changeset="7902240" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 10:45"/>
+    <tag k="note" v="Non-standard or old plate says &quot;This is Postbox No. v2017&quot;, so guessing ref from knowledge of postal district. Collection times may be outdated."/>
+    <tag k="ref" v="IP31 2017"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="897229590" lat="52.0869200" lon="-0.2647863" version="1" timestamp="2010-09-05T12:27:14Z" changeset="5687126" uid="253958" user="user_253958">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="CP1"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 11:00"/>
+    <tag k="ref" v="SG18 21"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="910247231" lat="56.2062631" lon="-3.1323956" version="3" timestamp="2014-02-19T11:04:45Z" changeset="20653854" uid="1912128" user="Red Kobold">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 11:45"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="KY7 68"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="Survey Feb 2014"/>
+  </node>
+  <node id="938872824" lat="50.7832869" lon="-1.0817946" version="3" timestamp="2011-11-23T12:01:47Z" changeset="9920182" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO5 70"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="941386766" lat="52.1242426" lon="-2.3208411" version="8" timestamp="2011-08-17T15:08:59Z" changeset="9048843" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar_box"/>
+    <tag k="collection_plate" v="CPR"/>
+    <tag k="collection_times" v="Mo-Fr 17:45; Sa 11:30"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="ref" v="WR14 8"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="GPS Waypoint"/>
+  </node>
+  <node id="944674586" lat="51.8980102" lon="0.1717580" version="3" timestamp="2012-04-24T08:11:55Z" changeset="11402448" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:20"/>
+    <tag k="name" v="CM23 1HG – Hazel End | Bishops Stortford"/>
+    <tag k="ref" v="CM23 10"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="952304370" lat="52.9519594" lon="-1.1564552" version="6" timestamp="2013-11-05T18:57:37Z" changeset="18734669" uid="207845" user="will_p">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 10:30"/>
+    <tag k="ele" v="54.439941"/>
+    <tag k="ref" v="NG1 106"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="GPS"/>
+  </node>
+  <node id="952703811" lat="52.2301858" lon="-2.2282556" version="1" timestamp="2010-10-16T21:58:16Z" changeset="6062161" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 07:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR3 103"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="956517717" lat="53.0630283" lon="-1.4012353" version="4" timestamp="2012-03-04T01:14:02Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="DE5 157"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="969015735" lat="52.1075096" lon="-2.3266295" version="7" timestamp="2011-09-15T08:22:31Z" changeset="9305881" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar_box"/>
+    <tag k="collection_plate" v="hidden"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 08:30"/>
+    <tag k="description" v="Fluted Victorian Pillar Box."/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="ref" v="WR14 2"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="977823201" lat="52.1892964" lon="-2.2203754" version="2" timestamp="2011-08-22T10:12:28Z" changeset="9092518" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_plate" v="CP6"/>
+    <tag k="fixme" v="Need to go back and get colln times."/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="WR1 14"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="979538268" lat="52.2129198" lon="-2.2498787" version="1" timestamp="2010-11-06T19:51:15Z" changeset="6305640" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 08:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR2 101"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="988658704" lat="52.0960954" lon="-2.3403123" version="4" timestamp="2013-07-20T20:58:54Z" changeset="17028628" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 11:15"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="post_box:apertures" v="1"/>
+    <tag k="post_box:manufacturer" v="?? Allen &amp; Co. London"/>
+    <tag k="post_box:platecode" v="CP5"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR14 127"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1036629359" lat="51.4828725" lon="-3.1647382" version="4" timestamp="2012-03-03T19:12:13Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="note" v="Plate giving details of collection times, reference number etc is missing"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co. Ltd"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1079904372" lat="52.3946450" lon="0.8886428" version="1" timestamp="2011-01-03T00:02:00Z" changeset="6844877" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="IP22 7132"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1109141910" lat="52.1522545" lon="-0.6820854" version="3" timestamp="2012-04-10T14:46:59Z" changeset="11253132" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="MK46 403"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1111434790" lat="52.0180250" lon="-2.2908610" version="1" timestamp="2011-01-20T10:04:01Z" changeset="7028643" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="none"/>
+    <tag k="fixme" v="Need to get PB, Court, road all GPS correct."/>
+    <tag k="fixme2" v="Need to visit to see if it's been nicked"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="ref" v="WR13 108"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1116896655" lat="52.3272562" lon="-2.5672830" version="1" timestamp="2011-01-23T14:22:30Z" changeset="7061827" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="description" v="in Barn Wall"/>
+    <tag k="fixme" v="Very approx position"/>
+    <tag k="ref" v="WR15 73"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1119456366" lat="52.7627475" lon="-3.4539680" version="2" timestamp="2011-05-09T00:38:37Z" changeset="8088924" uid="19735" user="twain">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 11:30"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="ref" v="SY10 49"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1139151033" lat="52.1470173" lon="-2.2546303" version="1" timestamp="2011-02-06T14:01:21Z" changeset="7203974" uid="369186" user="mwbg">
+    <tag k="amenity" v="disused"/>
+    <tag k="description" v="This seems to be the WR2 4 box, but it's clearly been disused, cobwebbed, ivy-covered for &gt;20 years, so WOE is it doing on the FOI list for 2009 ?"/>
+    <tag k="disused" v="post_box"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1170218538" lat="52.0505866" lon="1.1447296" version="2" timestamp="2013-10-10T08:41:07Z" changeset="18277146" uid="6871" user="smsm1">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="IP2 1047"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1172381374" lat="51.7340715" lon="0.6786451" version="2" timestamp="2011-12-31T18:59:12Z" changeset="10257449" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="fixme" v="resurvey when collection plate restored"/>
+    <tag k="note" v="collection plate missing"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1175960448" lat="52.1492827" lon="-2.1711306" version="1" timestamp="2011-02-26T23:35:06Z" changeset="7405746" uid="186212" user="srbrook">
+    <tag k="amenity" v="disused"/>
+    <tag k="disused" v="post_box"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1179514500" lat="50.4615288" lon="-3.5300717" version="6" timestamp="2013-11-17T20:17:54Z" changeset="18959989" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 11:45"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="TQ2 22"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1207878368" lat="50.8097306" lon="-1.0651159" version="4" timestamp="2012-06-29T15:37:51Z" changeset="12057550" uid="100597" user="PealRinger">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO2 87"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1214165861" lat="51.1632581" lon="-0.6370661" version="2" timestamp="2013-12-01T00:28:21Z" changeset="19203270" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1233711060" lat="51.4881491" lon="-3.1762786" version="1" timestamp="2011-04-05T15:23:24Z" changeset="7775853" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="fixme" v="check ref number and collection times"/>
+    <tag k="note" v="collection times plate missing"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1240590867" lat="52.2562348" lon="-2.1855288" version="2" timestamp="2011-05-29T21:27:16Z" changeset="8286261" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 07:00"/>
+    <tag k="old_ref" v="D.351 Salwarpe"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR9 351"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source:old_ref" v="collection plate"/>
+    <tag k="source:ref" v="dracos"/>
+  </node>
+  <node id="1241639338" lat="52.1839163" lon="-2.4109050" version="5" timestamp="2013-06-04T12:31:31Z" changeset="16418957" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="CP5"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 07:45"/>
+    <tag k="historic_operator" v="(none)"/>
+    <tag k="ref" v="WR6 111"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1249030474" lat="52.1704877" lon="-2.1154553" version="1" timestamp="2011-04-17T20:57:51Z" changeset="7891969" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 07:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR7 40"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1250599042" lat="52.1802836" lon="-2.1145697" version="1" timestamp="2011-04-18T22:15:36Z" changeset="7902141" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 07:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR7 135"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1278076819" lat="51.4821682" lon="-3.1485813" version="3" timestamp="2012-03-03T19:47:41Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co. Ltd"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="CF24 161"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1281216395" lat="50.7891977" lon="-1.0737468" version="3" timestamp="2012-04-15T21:39:25Z" changeset="11316395" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO4 81"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1281216398" lat="50.7868137" lon="-1.0849972" version="3" timestamp="2012-02-12T16:08:15Z" changeset="10664464" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 12:00"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO5 95"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1291515493" lat="51.4804662" lon="-3.1480911" version="3" timestamp="2012-03-03T19:50:48Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="note" v="Plate with ref, collection times etc is missing"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co. Ltd"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1303524535" lat="53.3672659" lon="-0.0031322" version="3" timestamp="2012-03-03T19:53:56Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1304940663" lat="51.9553455" lon="-1.9623742" version="1" timestamp="2011-05-29T16:03:20Z" changeset="8282626" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 10:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL54 283"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1308277081" lat="52.0994159" lon="-2.3705600" version="3" timestamp="2013-06-06T20:47:54Z" changeset="16449764" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="CP5"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 07:00"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="note" v="dedicated brick pillar"/>
+    <tag k="ref" v="WR13 61"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1312746960" lat="52.8239663" lon="1.1954547" version="2" timestamp="2012-08-13T13:23:02Z" changeset="12713575" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 08:15"/>
+    <tag k="note" v="Box number unreadable on collection plate"/>
+    <tag k="ref" v="NR11"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1368160246" lat="50.8647754" lon="-0.6314755" version="2" timestamp="2012-10-12T21:28:48Z" changeset="13472567" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="BN18 1334"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1371522811" lat="52.1205852" lon="-2.4951130" version="2" timestamp="2013-06-12T23:00:08Z" changeset="16530957" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_times" v="Mo-Fr 15:00; Sa 10:30"/>
+    <tag k="note" v="ref not shown on plate"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR6 116"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source:ref" v="dracos"/>
+  </node>
+  <node id="1382334891" lat="51.1201284" lon="-3.0378594" version="2" timestamp="2012-04-10T12:18:13Z" changeset="11251569" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 12:00; Sa 11:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TA5 30"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1418764247" lat="52.2058888" lon="-2.3769196" version="1" timestamp="2011-08-30T22:30:55Z" changeset="9172206" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 11:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR6 87"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1420456402" lat="51.4984560" lon="-0.2010129" version="4" timestamp="2012-03-03T20:18:09Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="note" v="Old hexagonal pillar box. Ref not visible"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1422745641" lat="52.3864280" lon="0.8980358" version="1" timestamp="2011-09-04T08:35:34Z" changeset="9206382" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 10:00"/>
+    <tag k="note" v="In wall of private house, away from road"/>
+    <tag k="ref" v="IP22 7114"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1463209671" lat="50.6907419" lon="-3.6708819" version="4" timestamp="2013-12-13T19:11:15Z" changeset="19438081" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1493733837" lat="52.3079535" lon="-2.3640322" version="1" timestamp="2011-11-06T22:48:29Z" changeset="9760863" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 09:30"/>
+    <tag k="note" v="old style collection plate"/>
+    <tag k="old_ref" v="R209 Abberley Old Village"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR6 209"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1502732125" lat="51.9394789" lon="-1.3100271" version="1" timestamp="2011-11-14T10:23:54Z" changeset="9823265" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="OX25 91"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1502794809" lat="51.9306276" lon="-1.3113609" version="1" timestamp="2011-11-14T12:30:53Z" changeset="9824220" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="OX25 109"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1557029250" lat="50.7991074" lon="-1.0710437" version="2" timestamp="2012-05-12T13:27:01Z" changeset="11576527" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:00; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO1 102"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1558372676" lat="51.5237250" lon="-0.0641449" version="3" timestamp="2012-03-03T20:37:23Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:apertures" v="1"/>
+    <tag k="post_box:manufacturer" v="Handyside and Co Ltd, Derby and London"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="E2 21"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1560693876" lat="54.5840289" lon="-0.9733725" version="1" timestamp="2011-12-24T16:08:06Z" changeset="10194986" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="TS12 474"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1583342664" lat="54.4234253" lon="-2.9773290" version="1" timestamp="2012-01-08T22:19:52Z" changeset="10337500" uid="221923" user="michaelinredhill">
+    <tag k="amenity" v="post_box"/>
+    <tag k="ref" v="LA22 234"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1585064711" lat="54.3802534" lon="-2.9041922" version="1" timestamp="2012-01-10T21:23:26Z" changeset="10355639" uid="221923" user="michaelinredhill">
+    <tag k="amenity" v="post_box"/>
+    <tag k="ref" v="LA23 95"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1585739990" lat="51.5028679" lon="-0.2173960" version="3" timestamp="2012-03-03T20:40:48Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co. Ltd"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1590726092" lat="51.5205565" lon="-0.0975592" version="2" timestamp="2012-03-01T14:59:51Z" changeset="10838748" uid="190869" user="elbatrop">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:apertures" v="2"/>
+    <tag k="ref" v="EC1 123"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1609379856" lat="51.4939720" lon="-0.2133962" version="3" timestamp="2012-03-03T20:52:49Z" changeset="10861079" uid="147510" user="woodpeck_fixbot">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:apertures" v="1"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co. Ltd, Derby and London"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="W14 5"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1638055045" lat="52.0239536" lon="-1.8863842" version="3" timestamp="2012-08-19T20:38:37Z" changeset="12788798" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR12 23"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1641454685" lat="51.8545636" lon="0.9598643" version="5" timestamp="2012-04-06T13:38:40Z" changeset="11201871" uid="605122" user="neiljp">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 10:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="CO7 121"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1656745015" lat="51.5221853" lon="-0.1119349" version="1" timestamp="2012-03-02T22:04:38Z" changeset="10852917" uid="82783" user="Paul The Archivist">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:apertures" v="2"/>
+    <tag k="post_box:manufacturer" v="Handyside, Derby and London"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="EC1 109"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1661007040" lat="52.1352246" lon="-2.3133646" version="1" timestamp="2012-03-05T18:34:01Z" changeset="10882597" uid="155917" user="iccaldwell">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="CP2"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 11:00"/>
+    <tag k="description" v="In wall of The New Inn"/>
+    <tag k="postal_code" v="WR14"/>
+    <tag k="ref" v="WR14 41"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1667709801" lat="52.1132704" lon="-2.3303334" version="3" timestamp="2013-06-21T19:16:26Z" changeset="16647940" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 11:30"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="post_box:apertures" v="1"/>
+    <tag k="post_box:manufacturer" v="WT Allen &amp; Co. London"/>
+    <tag k="post_box:plate_code" v="CP5"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="postal_code" v="WR14"/>
+    <tag k="ref" v="WR14 30"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="GPS;survey;bing"/>
+  </node>
+  <node id="1672815754" lat="51.0877484" lon="-3.0272886" version="2" timestamp="2012-04-25T15:12:07Z" changeset="11415883" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 11:00; Sa 10:30"/>
+    <tag k="fixme" v="resurvey to see if box number can be found"/>
+    <tag k="image" v="http://www.flickr.com/photos/30208304@N03/6977588993"/>
+    <tag k="note" v="Although a box number (for ref=* key) mis not apparent on the image of the collection plate, it's probably hiding under the frame at the bottom"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1681574652" lat="52.0968039" lon="-1.5863232" version="1" timestamp="2012-03-19T13:44:03Z" changeset="11029653" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 08:15"/>
+    <tag k="ref" v="CV36 126"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1683726657" lat="50.8138127" lon="-0.0064416" version="1" timestamp="2012-03-20T20:16:46Z" changeset="11045016" uid="221923" user="michaelinredhill">
+    <tag k="amenity" v="post_box"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1706384270" lat="52.3991893" lon="-2.3645552" version="1" timestamp="2012-04-07T21:48:23Z" changeset="11219143" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 15:20; Sa 09:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="DY12 87"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1706694324" lat="52.4538034" lon="0.9099487" version="4" timestamp="2013-10-31T21:42:37Z" changeset="18643143" uid="917436" user="sinh">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 09:30"/>
+    <tag k="ref" v="NR16 1652"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1712790875" lat="50.7414958" lon="-2.7029014" version="3" timestamp="2013-08-23T09:23:06Z" changeset="17467168" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="description" v="In wall on north side. Victorian Box"/>
+    <tag k="ref" v="DT6 9"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1723340830" lat="51.5208967" lon="-0.0919943" version="2" timestamp="2013-09-22T16:38:24Z" changeset="17976759" uid="238584" user="mcld">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:apertures" v="2"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="EC1 127"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1729183704" lat="50.7952875" lon="-1.0721523" version="1" timestamp="2012-04-24T16:37:35Z" changeset="11407081" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO4 101"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1732205724" lat="50.9429302" lon="-1.2640659" version="2" timestamp="2013-10-09T20:26:13Z" changeset="18271744" uid="2098" user="Andy Street">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="SO32 54"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1734161225" lat="53.3241793" lon="-3.8267268" version="3" timestamp="2013-09-03T17:42:02Z" changeset="17658165" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="note" v="Full reference not visible"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="LL30"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1754278557" lat="51.8976959" lon="-2.3829213" version="1" timestamp="2012-05-15T21:27:06Z" changeset="11609252" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 09:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL19 65"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1754699775" lat="51.5304530" lon="-0.1008371" version="3" timestamp="2014-01-12T12:19:09Z" changeset="19951310" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:apertures" v="2"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co Ltd"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="EC1 120"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1755274120" lat="51.9539401" lon="-2.4442349" version="1" timestamp="2012-05-16T21:08:34Z" changeset="11618067" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:20; Sa 09:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL18 54"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1779513586" lat="50.9697454" lon="0.2500191" version="1" timestamp="2012-06-07T18:14:58Z" changeset="11827907" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 09:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TN21 64"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1780114305" lat="52.9414882" lon="1.2043709" version="1" timestamp="2012-06-08T08:20:53Z" changeset="11832812" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 10:45"/>
+    <tag k="ref" v="NR26 2613"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1781425343" lat="50.8939629" lon="0.3098713" version="1" timestamp="2012-06-09T10:07:38Z" changeset="11843204" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:45"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="BN27 961"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1781425362" lat="50.9260020" lon="0.2790080" version="1" timestamp="2012-06-09T10:07:39Z" changeset="11843204" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 09:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TN21 21"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1788882849" lat="52.2589397" lon="-1.0741381" version="1" timestamp="2012-06-15T18:19:52Z" changeset="11907443" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NN7 470"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1791942289" lat="52.5815954" lon="1.2293967" version="1" timestamp="2012-06-17T16:32:55Z" changeset="11927579" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:30"/>
+    <tag k="fixme" v="Mo-Fr collection time uncertain, due to broken plate."/>
+    <tag k="ref" v="NR14 1459"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1792270292" lat="52.4819911" lon="1.0213623" version="2" timestamp="2012-06-25T14:47:21Z" changeset="12012310" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:00"/>
+    <tag k="fixme" v="Collection plate damaged so ref number missing."/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1817770104" lat="51.4874531" lon="-0.6088470" version="1" timestamp="2012-07-08T15:26:43Z" changeset="12151281" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="SL4 23"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1826945050" lat="52.4902381" lon="0.9427180" version="1" timestamp="2012-07-15T21:08:44Z" changeset="12236115" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 10:00"/>
+    <tag k="ref" v="NR16 1644"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1827495819" lat="52.8550183" lon="-3.0535748" version="1" timestamp="2012-07-16T12:59:27Z" changeset="12244639" uid="82783" user="Paul The Archivist">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1837725580" lat="52.0727134" lon="-2.0147523" version="4" timestamp="2012-07-30T11:05:30Z" changeset="12546486" uid="369186" user="mwbg">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall_box"/>
+    <tag k="collection_plate" v="(uncoded)"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:15"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="note" v="Check in a few months (currently 2012-07) to see if Rm have updated collection plate."/>
+    <tag k="ref" v="WR10 231"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1841302215" lat="52.2432963" lon="-0.8801580" version="1" timestamp="2012-07-28T13:09:52Z" changeset="12523094" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NN1 64"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1841302217" lat="52.2450306" lon="-0.8800395" version="1" timestamp="2012-07-28T13:09:52Z" changeset="12523094" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NN1 82"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1853290035" lat="52.2492941" lon="-0.9200332" version="1" timestamp="2012-08-05T19:13:58Z" changeset="12624988" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="NN5 148"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1858016071" lat="50.8691826" lon="-0.7748055" version="1" timestamp="2012-08-09T00:27:08Z" changeset="12663518" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 07:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="PO18 28"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1863714751" lat="50.9450800" lon="-2.5169378" version="1" timestamp="2012-08-12T23:04:01Z" changeset="12708052" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1863724650" lat="50.8791741" lon="-2.4842469" version="1" timestamp="2012-08-12T23:24:30Z" changeset="12708157" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1864302504" lat="52.8857877" lon="1.2456696" version="1" timestamp="2012-08-13T14:12:15Z" changeset="12713575" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:40"/>
+    <tag k="note" v="Collection plate syas &quot;This is Postbox number 1178&quot; So ref an interpolation."/>
+    <tag k="ref" v="NR11 1178"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1869304610" lat="51.9907936" lon="-2.0263115" version="1" timestamp="2012-08-16T22:43:23Z" changeset="12756573" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 09:15"/>
+    <tag k="historic_operator" v="Post Office"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL20 27"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1917533414" lat="51.4840457" lon="-0.1646509" version="1" timestamp="2012-09-16T18:23:35Z" changeset="13134303" uid="367630" user="wadeLondon">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="SW3 43"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1922735613" lat="51.9890079" lon="-2.1343319" version="1" timestamp="2012-09-19T23:12:27Z" changeset="13177095" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 08:45"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL20 30"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="1929443149" lat="52.2419160" lon="0.6340480" version="1" timestamp="2012-09-23T19:32:30Z" changeset="13224956" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 11:00"/>
+    <tag k="ref" v="IP29 2043"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2001830800" lat="51.8892671" lon="-2.2689544" version="1" timestamp="2012-11-07T20:52:36Z" changeset="13790138" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:15; Sa 10:45"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL2 240"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2015871720" lat="51.8904011" lon="-2.4235873" version="1" timestamp="2012-11-15T23:24:17Z" changeset="13889069" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 08:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL17 61"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2015871791" lat="51.8939299" lon="-2.3970357" version="1" timestamp="2012-11-15T23:24:21Z" changeset="13889069" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 11:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GL19 128"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2038905235" lat="50.9164791" lon="-0.1686540" version="1" timestamp="2012-11-28T20:33:04Z" changeset="14078647" uid="221923" user="michaelinredhill">
+    <tag k="amenity" v="post_box"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2045784545" lat="52.4324492" lon="1.0042567" version="1" timestamp="2012-12-02T08:51:34Z" changeset="14121206" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 11:15"/>
+    <tag k="ref" v="NR16 1637"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2106295317" lat="51.0524112" lon="-1.2778803" version="2" timestamp="2013-05-06T10:02:30Z" changeset="15995437" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="SO21 14"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2152580325" lat="51.9710493" lon="-2.5311566" version="1" timestamp="2013-02-12T22:49:38Z" changeset="15012608" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 10:00; Sa 10:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR9 369"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2159690401" lat="52.0118091" lon="-2.5258575" version="2" timestamp="2014-01-05T00:05:36Z" changeset="19815658" uid="181135" user="Manu1400">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 12:00; Sa 10:00"/>
+    <tag k="mail:second_class" v="yes"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR8 641"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2159690459" lat="52.0333056" lon="-2.6279048" version="1" timestamp="2013-02-17T17:03:01Z" changeset="15066384" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 10:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR1 63"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2160343001" lat="50.9616811" lon="-0.8272844" version="1" timestamp="2013-02-18T00:18:00Z" changeset="15071563" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 09:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GU29 31"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2191327339" lat="52.0653678" lon="-2.6344107" version="1" timestamp="2013-03-08T18:44:21Z" changeset="15293581" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 09:00; Sa 09:00"/>
+    <tag k="note" v="In brick pillar with capstone dated 1893"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR1 79"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2245507337" lat="50.9268736" lon="-2.9039216" version="1" timestamp="2013-04-02T22:47:48Z" changeset="15587983" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:00; Sa 11:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TA19 65"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2247296658" lat="51.5007023" lon="-0.1985408" version="1" timestamp="2013-04-03T22:10:41Z" changeset="15601548" uid="82783" user="Paul The Archivist">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:manufacturer" v="A. Handyside &amp; Co Ltd, Derby &amp; London"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="W8 2"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2249394706" lat="51.0831145" lon="-2.2590090" version="1" timestamp="2013-04-04T22:10:37Z" changeset="15613833" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 12:00; Sa 10:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="BA12 78"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2281449705" lat="52.9771633" lon="-1.1672197" version="1" timestamp="2013-04-25T22:14:17Z" changeset="15866241" uid="84681" user="SK53">
+    <tag k="amenity" v="post_box"/>
+    <tag k="ref" v="NG7 119"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="http://www.geograph.org.uk/photo/1465449"/>
+  </node>
+  <node id="2284005133" lat="51.8814841" lon="-1.6162655" version="1" timestamp="2013-04-28T10:04:17Z" changeset="15893322" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 15:45; Sa 08:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="OX7 245"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2284013413" lat="51.8779891" lon="-1.6587404" version="1" timestamp="2013-04-28T10:16:11Z" changeset="15893464" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 09:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="OX7 254"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2013-04-27"/>
+  </node>
+  <node id="2286063942" lat="52.1118027" lon="-2.5910444" version="1" timestamp="2013-04-29T20:12:14Z" changeset="15913500" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 11:15; Sa 11:15"/>
+    <tag k="note" v="Collection plate missing, times &amp; ref from Dracos"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR1 56"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2320881383" lat="51.4827484" lon="-0.6089764" version="3" timestamp="2013-06-03T12:55:41Z" changeset="16405906" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="colour" v="slate_blue"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="SL4 22"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2322172142" lat="52.1765164" lon="-2.4118768" version="2" timestamp="2013-08-23T09:27:00Z" changeset="17467205" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 09:00"/>
+    <tag k="old_ref" v="R083 Suckley Green"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="WR6 83"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2323785846" lat="52.1732364" lon="-2.4988724" version="1" timestamp="2013-05-28T23:32:29Z" changeset="16331628" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:30; Sa 08:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR7 407"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2323786663" lat="52.1867307" lon="-2.5060793" version="1" timestamp="2013-05-28T23:32:49Z" changeset="16331628" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 11:45"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HR7 486"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2324909661" lat="52.8082894" lon="0.8943391" version="1" timestamp="2013-05-29T22:30:01Z" changeset="16344560" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:30"/>
+    <tag k="ref" v="NR21 2128"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2326772654" lat="52.7184572" lon="1.0354168" version="1" timestamp="2013-05-31T08:14:32Z" changeset="16361637" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 09:30"/>
+    <tag k="ref" v="NR20 2011"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2329901173" lat="52.6826590" lon="0.9483245" version="1" timestamp="2013-06-02T20:37:58Z" changeset="16397652" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 09:00"/>
+    <tag k="ref" v="NR20 2028"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2333397788" lat="50.7760132" lon="0.1613786" version="2" timestamp="2013-10-29T13:28:28Z" changeset="18601533" uid="221923" user="michaelinredhill">
+    <tag k="amenity" v="post_box"/>
+    <tag k="ref" v="BN25 1083"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2338184268" lat="52.9417516" lon="1.2082705" version="2" timestamp="2013-06-09T17:54:25Z" changeset="16485849" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="note" v="Private box on platform; plaque says mail will be re-posted by railway staff"/>
+    <tag k="operator" v="North Norfolk Railway"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2362555958" lat="54.3688040" lon="-0.9708118" version="1" timestamp="2013-06-27T00:07:50Z" changeset="16720488" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 10:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="YO62 273"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2376832307" lat="51.4739597" lon="-2.5777518" version="2" timestamp="2013-07-20T10:08:54Z" changeset="17021534" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 11:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="BS2 4"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2398172413" lat="51.8138798" lon="-0.8150404" version="1" timestamp="2013-07-27T10:30:10Z" changeset="17111761" uid="49031" user="craigloftus">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="HP20 66"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2013-07-20"/>
+  </node>
+  <node id="2412707509" lat="51.1269643" lon="-3.1077229" version="1" timestamp="2013-08-09T23:53:09Z" changeset="17286270" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 10:30; Sa 08:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TA5 105"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2418857018" lat="52.4028395" lon="0.9478174" version="1" timestamp="2013-08-14T12:21:53Z" changeset="17344645" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 09:00; Sa 08:30"/>
+    <tag k="ref" v="IP22 7103"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2422391552" lat="51.1622401" lon="-0.8977486" version="1" timestamp="2013-08-18T01:25:53Z" changeset="17390591" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 07:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GU34 12"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2432907809" lat="51.5224598" lon="-1.1489246" version="1" timestamp="2013-08-26T21:32:07Z" changeset="17526226" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="RG8 107"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2435262449" lat="52.9231815" lon="1.3131984" version="1" timestamp="2013-08-28T13:35:27Z" changeset="17554929" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="pillar"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 10:30"/>
+    <tag k="ref" v="NR27 2706"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2435262455" lat="52.8885204" lon="1.2687678" version="1" timestamp="2013-08-28T13:35:28Z" changeset="17554929" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 11:30"/>
+    <tag k="ref" v="NR11 1173"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2436595790" lat="52.8981501" lon="1.3422095" version="1" timestamp="2013-08-29T08:21:56Z" changeset="17567626" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="note" v="Collection times not visible on plate"/>
+    <tag k="ref" v="NR27 2714"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2437082391" lat="52.8786343" lon="1.4352740" version="1" timestamp="2013-08-29T13:12:13Z" changeset="17571568" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 08:30"/>
+    <tag k="ref" v="NR11 1153"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2438743885" lat="52.8201784" lon="1.4829023" version="1" timestamp="2013-08-30T08:11:47Z" changeset="17584313" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 10:00"/>
+    <tag k="ref" v="NR28 2849"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2438743912" lat="52.8486680" lon="1.4674043" version="1" timestamp="2013-08-30T08:11:47Z" changeset="17584313" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 15:30; Sa 07:00"/>
+    <tag k="ref" v="NR12 1217"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2439089465" lat="52.7939620" lon="1.4308613" version="1" timestamp="2013-08-30T13:13:16Z" changeset="17589168" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 08:45"/>
+    <tag k="ref" v="NR28 2854"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2439089498" lat="52.7566947" lon="1.3121462" version="1" timestamp="2013-08-30T13:13:17Z" changeset="17589168" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="note" v="collection plate missing 2013-08-26"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2444719572" lat="53.3251514" lon="-3.8360035" version="1" timestamp="2013-09-03T17:36:28Z" changeset="17658081" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="LL30 17"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2444719576" lat="53.3272731" lon="-3.8349098" version="1" timestamp="2013-09-03T17:36:29Z" changeset="17658081" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="LL30 19"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2444852788" lat="53.0049321" lon="-3.9400925" version="1" timestamp="2013-09-03T18:38:10Z" changeset="17659065" uid="530410" user="PJD67">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="LL41 40"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2451097639" lat="51.1453050" lon="-0.5692849" version="3" timestamp="2013-12-02T01:34:35Z" changeset="19226423" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 10:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GU8 36"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2456105991" lat="53.1458575" lon="-2.6605754" version="1" timestamp="2013-09-12T19:47:59Z" changeset="17806423" uid="5409" user="peter_james">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2456671768" lat="52.5945677" lon="-2.5608224" version="2" timestamp="2013-09-13T10:02:43Z" changeset="17814543" uid="5409" user="peter_james">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 15:45; Sa 11:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2465868597" lat="52.5730018" lon="-2.7182297" version="1" timestamp="2013-09-20T20:13:10Z" changeset="17946302" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 11:15; Sa 08:30"/>
+    <tag k="letters_only" v="yes"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="SY6 208"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2466065388" lat="52.5498760" lon="-3.0524543" version="1" timestamp="2013-09-21T00:17:28Z" changeset="17948883" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 10:00"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="SY15 28"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2480656667" lat="51.2524200" lon="-1.7866327" version="1" timestamp="2013-10-02T22:37:18Z" changeset="18152596" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="SN9 46"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2480664279" lat="51.0710646" lon="-1.7909015" version="1" timestamp="2013-10-02T22:57:09Z" changeset="18152960" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="SP1 131"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2490217421" lat="52.3587479" lon="-2.0743880" version="1" timestamp="2013-10-09T21:48:46Z" changeset="18272782" uid="186212" user="srbrook">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 09:00; Sa 07:15"/>
+    <tag k="note" v="Missing collection plate"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="B61 274"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2494842907" lat="50.8110153" lon="-1.0791365" version="1" timestamp="2013-10-13T10:48:32Z" changeset="18330136" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 11:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="PO2 49"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2501249153" lat="50.9987901" lon="-0.6647951" version="1" timestamp="2013-10-19T00:19:30Z" changeset="18427646" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:30"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="GU28 39"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2518482528" lat="51.8962681" lon="-0.5548957" version="1" timestamp="2013-11-03T11:29:02Z" changeset="18691935" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="LU6 16"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2521509560" lat="50.6445513" lon="-2.3154158" version="1" timestamp="2013-11-05T21:44:03Z" changeset="18737814" uid="7437" user="Åndrew">
+    <tag k="amenity" v="post_box"/>
+    <tag k="box_type" v="wall"/>
+    <tag k="collection_times" v="Mo-Fr 11:00; Sa 11:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="ref" v="DT2 11"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2533897420" lat="50.8889007" lon="-0.2467419" version="1" timestamp="2013-11-15T18:19:59Z" changeset="18919685" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 07:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="BN5 1359"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2537088996" lat="50.4674373" lon="-3.5262754" version="1" timestamp="2013-11-17T20:17:53Z" changeset="18959989" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:00; Sa 12:15"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TQ1 53"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2537410906" lat="50.5481247" lon="-3.4943465" version="1" timestamp="2013-11-18T01:25:20Z" changeset="18964357" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:15; Sa 12:45"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="TQ14 9"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2549400907" lat="51.3186707" lon="-1.3062829" version="1" timestamp="2013-11-24T19:32:17Z" changeset="19097437" uid="76617" user="robbieonsea">
+    <tag k="amenity" v="post_box"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2588407681" lat="51.4732973" lon="-2.5901934" version="1" timestamp="2013-12-20T21:54:03Z" changeset="19557529" uid="770155" user="Toffer12">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:30"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="BS6 273"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2593020698" lat="51.8945440" lon="-0.4187203" version="1" timestamp="2013-12-24T18:23:01Z" changeset="19621353" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 17:30; Sa 12:30"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="LU2 101"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2598319314" lat="51.9491289" lon="-0.5970741" version="1" timestamp="2013-12-28T13:39:05Z" changeset="19678676" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:15"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="MK17 25"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2598319317" lat="51.9668757" lon="-0.5881756" version="1" timestamp="2013-12-28T13:39:05Z" changeset="19678676" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:00; Sa 08:45"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="MK17 26"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2598335937" lat="51.9473262" lon="-0.5329940" version="1" timestamp="2013-12-28T13:54:43Z" changeset="19678903" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:30; Sa 09:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="LU5 21"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2598386100" lat="51.9871471" lon="-0.5590635" version="1" timestamp="2013-12-28T14:44:06Z" changeset="19679610" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:45; Sa 10:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="MK17 24"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2598387823" lat="51.9904432" lon="-0.5862211" version="1" timestamp="2013-12-28T14:47:50Z" changeset="19679682" uid="142399" user="shirokazan">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 16:15; Sa 10:00"/>
+    <tag k="operator" v="Royal Mail"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="MK17 27"/>
+    <tag k="royal_cypher" v="VR"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2615999273" lat="57.1455320" lon="-2.1022890" version="3" timestamp="2014-01-17T18:24:59Z" changeset="20055160" uid="92905" user="benwatt">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 13:00"/>
+    <tag k="ref" v="AB11 37"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+  <node id="2618894576" lat="51.5267077" lon="-0.1002157" version="1" timestamp="2014-01-11T18:57:03Z" changeset="19940341" uid="84263" user="Robert Whittaker">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 18:30; Sa 12:00"/>
+    <tag k="post_box:apertures" v="2"/>
+    <tag k="post_box:design" v="type_c"/>
+    <tag k="post_box:manufacturer" v="A. Handyside and Co. Ltd, Derby and London"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="EC1 132"/>
+    <tag k="royal_cypher" v="VR"/>
+  </node>
+
+</osm>
