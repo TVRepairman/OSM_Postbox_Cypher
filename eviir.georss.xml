@@ -1,0 +1,1342 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <rights/>
+  <title>Post Boxes with EVIIIR Royal Cyphers</title>
+  <link href="http://www.technomancy.org/osm-hackerspaces/"/>
+  <updated>2014-02-19T10:45:42Z</updated>
+  <author>
+    <name>OpenStreetMap contributors</name>
+  </author>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-14T09:54:44Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1693706</geo:long>
+    <geo:lat>51.4006324</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-01-04T22:22:16Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.0259353</geo:long>
+    <geo:lat>54.4735514</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-05-07T19:59:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.0006514</geo:long>
+    <geo:lat>51.4334329</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-10T09:33:27Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.1044674</geo:long>
+    <geo:lat>50.7967729</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-09-21T00:07:24Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.1104916</geo:long>
+    <geo:lat>52.6721515</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-07-29T08:58:48Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.2602303</geo:long>
+    <geo:lat>51.7619857</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-29T19:58:29Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.7195523</geo:long>
+    <geo:lat>51.1387441</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-08-14T11:29:52Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.2056960</geo:long>
+    <geo:lat>51.4111947</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-08-14T11:13:52Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.2000972</geo:long>
+    <geo:lat>51.4089477</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-08-02T10:27:08Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1968192</geo:long>
+    <geo:lat>51.4017992</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-11-20T14:18:02Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.6375599</geo:long>
+    <geo:lat>51.8062753</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-12-29T21:46:43Z</updated>
+    <summary type="html"> Double-checked as bearing ref N21 18; it seems to have a duplicate reference to the one up the hill.</summary>
+    <geo:long>-0.1028194</geo:long>
+    <geo:lat>51.6388095</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-09-10T23:26:54Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.5837844</geo:long>
+    <geo:lat>53.8140205</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-03-18T23:41:57Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.5348534</geo:long>
+    <geo:lat>52.3971483</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-01-06T20:45:17Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.6009885</geo:long>
+    <geo:lat>53.8160021</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-10-04T11:37:23Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1254290</geo:long>
+    <geo:lat>51.5071461</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-05T07:15:55Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.0083362</geo:long>
+    <geo:lat>51.5728461</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2010-09-30T22:13:42Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-4.4626575</geo:long>
+    <geo:lat>57.4148387</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2010-08-30T22:19:57Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-4.5741726</geo:long>
+    <geo:lat>57.4227852</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-05-06T22:40:11Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1075102</geo:long>
+    <geo:lat>51.5141588</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-23T08:37:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.1182143</geo:long>
+    <geo:lat>52.2018606</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-01-16T14:49:40Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3468004</geo:long>
+    <geo:lat>52.0617852</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-09T10:25:36Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.2895081</geo:long>
+    <geo:lat>51.7081309</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-05-07T20:15:27Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.0513053</geo:long>
+    <geo:lat>51.4730819</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-09-11T21:48:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.8569986</geo:long>
+    <geo:lat>51.8835985</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-02-10T18:01:29Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.4861853</geo:long>
+    <geo:lat>50.7409927</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2010-10-29T18:39:26Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3263018</geo:long>
+    <geo:lat>52.1115349</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-09-12T18:10:44Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1113897</geo:long>
+    <geo:lat>51.5183351</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-05-12T12:11:59Z</updated>
+    <summary type="html"> One aperture for first class and abroad; one for franked mail. Both fitted with Belfast plates</summary>
+    <geo:long>-0.1183930</geo:long>
+    <geo:lat>51.5269170</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-07T15:14:31Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1121765</geo:long>
+    <geo:lat>51.5172790</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-22T22:21:41Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3346437</geo:long>
+    <geo:lat>52.0922832</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-15T07:24:10Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1169271</geo:long>
+    <geo:lat>51.5242160</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-04-20T21:03:46Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.3500947</geo:long>
+    <geo:lat>51.8285110</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-04-04T13:53:53Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0477777</geo:long>
+    <geo:lat>50.7939703</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-11-28T13:22:38Z</updated>
+    <summary type="html"> On platform; Only available to rail passengers</summary>
+    <geo:long>0.1374410</geo:long>
+    <geo:lat>52.1941240</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-01-15T16:39:41Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.0987575</geo:long>
+    <geo:lat>51.5236418</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-03-16T16:44:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.0878482</geo:long>
+    <geo:lat>52.0385908</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-22T13:26:58Z</updated>
+    <summary type="html"> May actually be a lamp box, built in to a stone a wall</summary>
+    <geo:long>-2.1029736</geo:long>
+    <geo:lat>52.0485872</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-12-08T16:10:44Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.5965682</geo:long>
+    <geo:lat>51.4534723</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-03-17T23:13:10Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.1105492</geo:long>
+    <geo:lat>51.1834536</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-03-24T10:46:07Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.7471050</geo:long>
+    <geo:lat>52.4142816</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-05-08T13:29:01Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3772115</geo:long>
+    <geo:lat>52.0296061</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-08-04T16:32:01Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.8974940</geo:long>
+    <geo:lat>52.2546602</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-12-08T17:56:30Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.5838172</geo:long>
+    <geo:lat>51.4816720</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-12-21T11:24:08Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1191555</geo:long>
+    <geo:lat>51.5193818</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:07Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8871025</geo:long>
+    <geo:lat>50.7189054</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-01-06T09:43:15Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3409690</geo:long>
+    <geo:lat>52.0131260</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-02-12T22:56:07Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.7979267</geo:long>
+    <geo:lat>51.0660793</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-01-06T11:52:23Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8585455</geo:long>
+    <geo:lat>50.7261316</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-01-06T11:52:23Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8610077</geo:long>
+    <geo:lat>50.7251520</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-08-23T09:23:19Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8478894</geo:long>
+    <geo:lat>50.7238317</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-02-03T20:55:47Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8693014</geo:long>
+    <geo:lat>50.7264894</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-09-15T20:56:45Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1297080</geo:long>
+    <geo:lat>51.5173000</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:08Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8832110</geo:long>
+    <geo:lat>50.7180900</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-25T14:51:58Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8864673</geo:long>
+    <geo:lat>50.7211171</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-07-31T13:11:39Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8790910</geo:long>
+    <geo:lat>50.7288510</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:09Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8852607</geo:long>
+    <geo:lat>50.7341374</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:09Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8944550</geo:long>
+    <geo:lat>50.7165150</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:09Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8982320</geo:long>
+    <geo:lat>50.7159160</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:09Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.9014070</geo:long>
+    <geo:lat>50.7141230</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:09Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.9042400</geo:long>
+    <geo:lat>50.7196660</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:09Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8201680</geo:long>
+    <geo:lat>50.7297170</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-01-05T22:49:24Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8368031</geo:long>
+    <geo:lat>50.7228910</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-11-05T13:56:55Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8167350</geo:long>
+    <geo:lat>50.7344700</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-02-03T15:28:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8131117</geo:long>
+    <geo:lat>50.7296305</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-01-05T21:56:14Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8090320</geo:long>
+    <geo:lat>50.7249444</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-24T09:25:10Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8147180</geo:long>
+    <geo:lat>50.7234150</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-29T08:12:51Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8136880</geo:long>
+    <geo:lat>50.7270580</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-01-29T15:03:54Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.4042346</geo:long>
+    <geo:lat>50.8591600</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-05-06T12:06:08Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.2763841</geo:long>
+    <geo:lat>50.7653686</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-03-08T20:18:47Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-4.4734961</geo:long>
+    <geo:lat>57.3281982</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-09T17:54:24Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>1.2120773</geo:long>
+    <geo:lat>52.9447469</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-06T12:00:18Z</updated>
+    <summary type="html"> Collection plate has "postbox number 74"; prefix for ref guessed. Also gives Saturday collection time as 7.15pm, which does not seem likely.</summary>
+    <geo:long>-0.2981550</geo:long>
+    <geo:lat>51.9988029</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-08-23T09:23:25Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.9778820</geo:long>
+    <geo:lat>50.8770450</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-28T20:29:07Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.0360401</geo:long>
+    <geo:lat>51.7059784</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2010-09-06T21:10:04Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.9414900</geo:long>
+    <geo:lat>50.8417210</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-01-23T15:01:32Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0596176</geo:long>
+    <geo:lat>50.8128528</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-11-22T11:20:21Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0737195</geo:long>
+    <geo:lat>50.7820857</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2010-10-23T22:09:55Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-4.5138948</geo:long>
+    <geo:lat>57.4639275</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2010-11-28T12:30:14Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3270393</geo:long>
+    <geo:lat>52.1151602</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2010-11-19T16:27:02Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.8631140</geo:long>
+    <geo:lat>52.4710314</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-05T20:49:45Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3846123</geo:long>
+    <geo:lat>52.1305762</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-01-17T18:24:59Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.1066580</geo:long>
+    <geo:lat>57.1476670</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-01-19T12:19:13Z</updated>
+    <summary type="html"> Small lamp box embedded into wall.</summary>
+    <geo:long>-3.1419880</geo:long>
+    <geo:lat>52.8282320</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-06T20:47:54Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3570090</geo:long>
+    <geo:lat>52.0690109</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-06T20:55:32Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.3602410</geo:long>
+    <geo:lat>52.0910018</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-02-12T16:08:15Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0834582</geo:long>
+    <geo:lat>50.7851986</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-10-13T10:40:01Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0694826</geo:long>
+    <geo:lat>50.8114974</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-08-06T19:16:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0783808</geo:long>
+    <geo:lat>50.8191175</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-04-05T15:23:22Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.1780917</geo:long>
+    <geo:lat>51.4880823</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-11-27T16:35:45Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.1779174</geo:long>
+    <geo:lat>51.4900180</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-04-08T21:06:16Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.0995100</geo:long>
+    <geo:lat>51.8973230</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-11-22T11:20:21Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0760805</geo:long>
+    <geo:lat>50.7812810</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-11-30T20:20:39Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.2072172</geo:long>
+    <geo:lat>51.4945525</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-08-04T21:33:17Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.7129500</geo:long>
+    <geo:lat>52.0575363</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-04-10T08:25:46Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8049874</geo:long>
+    <geo:lat>51.1612828</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-10-23T14:33:55Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.7267993</geo:long>
+    <geo:lat>51.0885562</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-03-08T20:06:12Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.1004357</geo:long>
+    <geo:lat>50.7859370</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-11-27T14:59:12Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1984555</geo:long>
+    <geo:lat>51.3217188</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2011-12-01T19:31:23Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0693717</geo:long>
+    <geo:lat>50.7824191</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-01-03T15:29:30Z</updated>
+    <summary type="html"> In front wall of private house</summary>
+    <geo:long>0.6012560</geo:long>
+    <geo:lat>52.6159949</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-08-13T12:50:58Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>1.2248619</geo:long>
+    <geo:lat>52.8032003</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-04-15T19:36:24Z</updated>
+    <summary type="html"> in pillar of bricks</summary>
+    <geo:long>0.9256282</geo:long>
+    <geo:lat>51.8368138</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-05-07T20:15:26Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.1442663</geo:long>
+    <geo:lat>51.4986514</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-05-09T20:42:51Z</updated>
+    <summary type="html"> in the station, on platform 2</summary>
+    <geo:long>-3.9351274</geo:long>
+    <geo:lat>56.1198541</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-09-11T22:39:16Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.5591870</geo:long>
+    <geo:lat>51.4398686</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-05T19:13:04Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.9782000</geo:long>
+    <geo:lat>53.2594100</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-08T19:41:56Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.8999974</geo:long>
+    <geo:lat>52.1705794</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-08T20:13:55Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.8488700</geo:long>
+    <geo:lat>53.3223767</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-06-09T10:07:38Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.3543183</geo:long>
+    <geo:lat>50.8592318</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-02-07T21:33:26Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.0849663</geo:long>
+    <geo:lat>50.8217993</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-07T15:17:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1115921</geo:long>
+    <geo:lat>51.5152911</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-07-15T20:40:17Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>0.9735477</geo:long>
+    <geo:lat>52.4824291</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-07-15T22:26:20Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.7589893</geo:long>
+    <geo:lat>50.8585752</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-07-19T19:34:59Z</updated>
+    <summary type="html"> wall post box, now disused</summary>
+    <geo:long>-2.1101559</geo:long>
+    <geo:lat>57.1612208</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-07-29T20:24:17Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.8852659</geo:long>
+    <geo:lat>52.2425519</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-08-04T16:32:00Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.8854620</geo:long>
+    <geo:lat>52.2539481</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-08-27T17:14:26Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>1.2957134</geo:long>
+    <geo:lat>52.9303752</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-09T21:30:43Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.9292161</geo:long>
+    <geo:lat>51.9700106</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-21T16:43:28Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.7632178</geo:long>
+    <geo:lat>51.8870280</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-10-21T16:43:29Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.9454504</geo:long>
+    <geo:lat>51.9471965</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2012-12-08T13:53:01Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.0396777</geo:long>
+    <geo:lat>51.5106849</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-02-17T17:03:00Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.5666778</geo:long>
+    <geo:lat>52.0182238</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-03-03T09:33:06Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>1.0024568</geo:long>
+    <geo:lat>52.3410085</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-04-03T20:07:33Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.2075917</geo:long>
+    <geo:lat>51.4979901</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-04-03T20:32:53Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1699882</geo:long>
+    <geo:lat>51.5001179</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-04-28T10:44:14Z</updated>
+    <summary type="html"> Wall in brick pillar</summary>
+    <geo:long>-1.6390054</geo:long>
+    <geo:lat>51.8953170</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-04-29T20:01:03Z</updated>
+    <summary type="html"> ref uncertain -- collection plate obscured</summary>
+    <geo:long>1.0309977</geo:long>
+    <geo:lat>52.5530703</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-05-28T09:40:42Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.5727650</geo:long>
+    <geo:lat>50.3487110</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-05-31T08:14:30Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>1.0378361</geo:long>
+    <geo:lat>52.7115371</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-30T21:32:06Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.4645883</geo:long>
+    <geo:lat>51.1670898</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-06-30T21:32:06Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.4755290</geo:long>
+    <geo:lat>51.1513615</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-10-05T22:22:39Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>1.1637904</geo:long>
+    <geo:lat>52.0684307</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-08-18T09:10:52Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.8638654</geo:long>
+    <geo:lat>51.1145318</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-09-03T17:36:28Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.8353863</geo:long>
+    <geo:lat>53.3238353</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-09-20T20:13:10Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.7369357</geo:long>
+    <geo:lat>52.5645872</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-09-23T23:24:00Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.6957941</geo:long>
+    <geo:lat>52.6297199</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-10-02T23:22:55Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-1.8074888</geo:long>
+    <geo:lat>51.0553575</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-11-16T22:43:44Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.5250184</geo:long>
+    <geo:lat>50.8501782</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-12-01T11:56:34Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.5828344</geo:long>
+    <geo:lat>51.1574205</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-12-01T19:07:11Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.7820902</geo:long>
+    <geo:lat>51.1309076</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2013-12-28T14:44:06Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.5498458</geo:long>
+    <geo:lat>51.9873023</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-01-05T17:48:24Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.4039965</geo:long>
+    <geo:lat>51.8888218</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-01-12T17:44:17Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.8157953</geo:long>
+    <geo:lat>52.0579948</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-01-16T00:17:48Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.1260787</geo:long>
+    <geo:lat>51.5229351</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-01-17T18:24:59Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-2.1003110</geo:long>
+    <geo:lat>57.1478810</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-02-09T21:52:07Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-0.9370275</geo:long>
+    <geo:lat>51.0068483</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated>2014-02-19T10:45:42Z</updated>
+    <summary type="html"> </summary>
+    <geo:long>-3.1521045</geo:long>
+    <geo:lat>56.1897812</geo:lat>
+  </entry>
+</feed>
