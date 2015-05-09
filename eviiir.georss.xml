@@ -3,7 +3,7 @@
   <rights/>
   <title>Post Boxes with EVIIIR Royal Cyphers</title>
   <link href="http://www.technomancy.org/osm-hackerspaces/"/>
-  <updated>2013-06-03T22:11:51Z</updated>
+  <updated/>
   <author>
     <name>OpenStreetMap contributors</name>
   </author>
@@ -11,7 +11,7 @@
     <title/>
     <link rel="alternate" type="text/html" href=""/>
     <id/>
-    <updated>2012-06-24T09:20:49Z</updated>
+    <updated/>
     <summary type="html"> Rare Edward VIII-reign</summary>
     <geo:long>-1.9307435</geo:long>
     <geo:lat>50.7154182</geo:lat>
@@ -20,25 +20,34 @@
     <title/>
     <link rel="alternate" type="text/html" href=""/>
     <id/>
-    <updated>2011-08-28T13:22:39Z</updated>
+    <updated/>
     <summary type="html"> </summary>
-    <geo:long>-2.2266874</geo:long>
-    <geo:lat>52.2131843</geo:lat>
+    <geo:long>-2.8521566</geo:long>
+    <geo:lat>51.4457200</geo:lat>
   </entry>
   <entry>
     <title/>
     <link rel="alternate" type="text/html" href=""/>
     <id/>
-    <updated>2013-06-03T22:11:51Z</updated>
-    <summary type="html"> One of only ~20 Edward VIII boxes erected before his abdication</summary>
-    <geo:long>-1.8920262</geo:long>
-    <geo:lat>52.4766107</geo:lat>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-0.5092366</geo:long>
+    <geo:lat>51.3396020</geo:lat>
   </entry>
   <entry>
     <title/>
     <link rel="alternate" type="text/html" href=""/>
     <id/>
-    <updated>2011-01-22T00:09:17Z</updated>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-0.0633299</geo:long>
+    <geo:lat>51.5092942</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
     <summary type="html"> </summary>
     <geo:long>-2.2601990</geo:long>
     <geo:lat>52.0831694</geo:lat>
@@ -47,18 +56,54 @@
     <title/>
     <link rel="alternate" type="text/html" href=""/>
     <id/>
-    <updated>2012-01-25T00:17:16Z</updated>
+    <updated/>
     <summary type="html"> </summary>
-    <geo:long>-0.7528223</geo:long>
-    <geo:lat>51.0852671</geo:lat>
+    <geo:long>-2.2266874</geo:long>
+    <geo:lat>52.2131843</geo:lat>
   </entry>
   <entry>
     <title/>
     <link rel="alternate" type="text/html" href=""/>
     <id/>
-    <updated>2012-10-02T14:36:49Z</updated>
+    <updated/>
+    <summary type="html"> One of only ~120 Edward VIII boxes erected before his abdication</summary>
+    <geo:long>-1.8920262</geo:long>
+    <geo:lat>52.4766107</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-1.8088457</geo:long>
+    <geo:lat>52.4614205</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-2.7951389</geo:long>
+    <geo:lat>54.0342645</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
     <summary type="html"> </summary>
     <geo:long>0.1019333</geo:long>
     <geo:lat>51.5355545</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>1.4240211</geo:long>
+    <geo:lat>51.3322146</geo:lat>
   </entry>
 </feed>

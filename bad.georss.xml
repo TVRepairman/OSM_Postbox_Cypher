@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <rights/>
+  <title>Post Boxes with EVIIIR Royal Cyphers</title>
+  <link href="http://www.technomancy.org/osm-hackerspaces/"/>
+  <updated/>
+  <author>
+    <name>OpenStreetMap contributors</name>
+  </author>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> ER not ERII</summary>
+    <geo:long>-3.5302831</geo:long>
+    <geo:lat>50.7290603</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-3.3090177</geo:long>
+    <geo:lat>50.6993116</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> This has an unusual royal cypher</summary>
+    <geo:long>-2.7660142</geo:long>
+    <geo:lat>50.9705839</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> This has an unusual royal cypher</summary>
+    <geo:long>-1.0716854</geo:long>
+    <geo:lat>50.7896394</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-0.4546818</geo:long>
+    <geo:lat>51.3731854</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> both apertures have same ref.</summary>
+    <geo:long>-0.1134097</geo:long>
+    <geo:lat>51.5161904</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-2.5331934</geo:long>
+    <geo:lat>52.0590612</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-2.5328847</geo:long>
+    <geo:lat>52.0665081</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-2.4796890</geo:long>
+    <geo:lat>52.0728990</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-2.4222510</geo:long>
+    <geo:lat>52.0284230</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> The Royal cypher is ER and the box appears to be an original Edward VII, judging by its design and location within a wall.</summary>
+    <geo:long>-0.5285150</geo:long>
+    <geo:lat>51.7783926</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-0.3429335</geo:long>
+    <geo:lat>51.7516821</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-0.0744501</geo:long>
+    <geo:lat>51.9216041</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-3.0340134</geo:long>
+    <geo:lat>54.4644138</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>-3.3218643</geo:long>
+    <geo:lat>55.9112945</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>1.1505019</geo:long>
+    <geo:lat>52.0559668</geo:lat>
+  </entry>
+  <entry>
+    <title/>
+    <link rel="alternate" type="text/html" href=""/>
+    <id/>
+    <updated/>
+    <summary type="html"> </summary>
+    <geo:long>1.1433718</geo:long>
+    <geo:lat>52.9409150</geo:lat>
+  </entry>
+</feed>
