@@ -41,7 +41,16 @@
           	    
           	    var newl = new OpenLayers.Layer.GeoRSS( 'EIIR GeoRSS', 'eiir.georss.xml' );
           	    map.addLayer(newl);
-
+		    
+		    var newl = new OpenLayers.Layer.GeoRSS( 'Bad Cypher', 'bad.georss.xml' );
+          	    map.addLayer(newl);
+		    
+		    var newl = new OpenLayers.Layer.GeoRSS( 'Cypher = No', 'no.georss.xml' );
+          	    map.addLayer(newl);
+		    
+		    var newl = new OpenLayers.Layer.GeoRSS( 'Cypher Missing', 'blank.georss.xml' );
+          	    map.addLayer(newl);
+		    
 		    map.setCenter(
 		        new OpenLayers.LonLat(-1.397, 50.903).transform(
 		            new OpenLayers.Projection("EPSG:4326"),
